@@ -6,8 +6,8 @@ A full-stack **MERN (MongoDB, Express, React, Node.js)** application for managin
 
 ## 🚀 Live Demo
 
-- 🌐 Frontend: [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)
-- ⚙️ Backend API: [https://your-backend-url.onrender.com](https://your-backend-url.onrender.com)
+- 🌐[Frontend:[https://your-frontend-url.vercel.app](https://student-management-system-one-eta.vercel.app/)
+- ⚙️ Backend API:[https://your-backend-url.onrender.com](https://studentmanagementsystem-21qb.onrender.com)
 
 > Replace the links above with your actual deployed URLs.
 
