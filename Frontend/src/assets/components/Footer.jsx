@@ -67,7 +67,7 @@ const Footer = () => {
             </h3>
 
             <p className="text-sm">support@sms.com</p>
-            <p className="text-sm">+91 98765 43210</p>
+            <p className="text-sm">+91 1800 1800 201</p>
           </div>
 
         </div>

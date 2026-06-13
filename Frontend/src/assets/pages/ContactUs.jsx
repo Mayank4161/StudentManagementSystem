@@ -67,7 +67,7 @@ const ContactUs = () => {
 
       {/* Contact Info */}
       <div className="text-center mt-8 text-gray-600 text-sm">
-        📧 support@sms.com | 📞 +91 98765 43210
+        📧 support@sms.com | 📞 +91 1800 1800 201
       </div>
 
     </div>
