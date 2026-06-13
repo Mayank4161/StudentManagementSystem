@@ -13,7 +13,7 @@ const Student = () => {
 
   // GET
   const getStudents = async () => {
-    const res = await API.get("/");
+    const res = await API.get("/api/student");
     setStudents(res.data);
   };
 
@@ -23,14 +23,14 @@ const Student = () => {
 
   // CREATE
   const addStudents = async () => {
-    await API.post("/", form);
+    await API.post("/api/student", form);
     setForm({ name: "", email: "", course: "", age: "" });
     getStudents();
   };
 
   // DELETE
   const deleteStudents = async (id) => {
-    await API.delete(`/${id}`);
+    await API.delete(`/api/student/${id}`);
     getStudents();
   };
 
